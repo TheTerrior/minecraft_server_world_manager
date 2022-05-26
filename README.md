@@ -1,4 +1,4 @@
-# minecraft_server_world_manager
+# Minecraft Server World Manager
 To use, run 
 ```
 python worldmanager.py [action] [world_name]
